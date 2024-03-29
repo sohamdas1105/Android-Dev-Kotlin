@@ -4,7 +4,7 @@ fun main() {
     var enteredvalue = readln()
     var age = enteredvalue.toInt()
     if(age in 18..39){
-        println("you can enter the club")
+        println(" alright you can enter the club")
     }
     else if(age>=40){
         println("You are too old please go home")
